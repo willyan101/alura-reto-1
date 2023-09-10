@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Inter', sans-serif;
 }
-
+/*mODIFICAR COLOR DE FONDO*/
 body{
     background-color: #f4f4fc;
 
@@ -128,7 +128,7 @@ main{
     display: block;
     position: relative;
     width: 600px;
-    height: 340px;
+    height: 290px;
     left: 30%;
     padding-right: 50px;
     margin-right: 50px;
@@ -181,7 +181,7 @@ main{
     width: 600px;
     height: 340px;
     right: 165px;
-    top: 35%;
+    top: 30%;
     padding-right: 50px;
     margin-right: 50px;
     background-color: #ffffff;
