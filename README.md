@@ -25,3 +25,8 @@ El resultado debe ser mostrado en la pantalla.
 Extras:
 
 Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+![ALURA RETO 1](https://github.com/willyan101/alura-reto-1/assets/134895210/1dae4c32-012b-49ce-89ca-7f4fdd2fde78)
+![RETO 1 ALURA](https://github.com/willyan101/alura-reto-1/assets/134895210/21b2eb4a-07d3-4340-9b4c-5ea6221aeed8)
+
+
